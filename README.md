@@ -34,30 +34,102 @@ Je suis un développeur Full Stack passionné, spécialisé dans la création d'
 <details>
 <summary><h2>🛠️ Stack Technologique & Outils</h2></summary>
 
-#### **Langages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### **💻 Langages de Programmation**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cs,php" />
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  </p>
+</div>
 
-#### **Machine Learning & IA**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=xgboost&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-00A98F?style=for-the-badge&logo=randomforest&logoColor=white)
+#### **🌐 Frontend & Frameworks Web**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </p>
+</div>
 
-#### **Bases de Données & ETL**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
+#### **⚙️ Backend & APIs**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,symfony,dotnet" />
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  </p>
+</div>
 
-#### **DevOps & Outils**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### **🤖 Machine Learning & Intelligence Artificielle**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+  <p>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/XGBoost-3776AB?style=flat-square" alt="XGBoost"/>
+    <img src="https://img.shields.io/badge/Random_Forest-00A98F?style=flat-square" alt="Random Forest"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  </p>
+</div>
+
+#### **🗄️ Bases de Données & Stockage**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <!-- SQL Server avec icône personnalisée -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  </p>
+</div>
+
+#### **🛠️ Outils ETL & Data Processing**
+<div align="center">
+  <p>
+    <!-- Talend avec icône personnalisée -->
+    <img src="https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyIDBDNS4zNyAwIDAgNS4zNyAwIDEyczUuMzcgMTIgMTIgMTIgMTItNS4zNyAxMi0xMlMxOC42MyAwIDEyIDB6bTAgMjEuNDNjLTUuMjIgMC05LjQzLTQuMjEtOS40My05LjQzUzYuNzggMi41NyAxMiAyLjU3czkuNDMgNC4yMSA5LjQzIDkuNDMtNC4yMSA5LjQzLTkuNDMgOS40M3oiLz48cGF0aCBmaWxsPSIjZmY2ZDcwIiBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnptMCAxOC4xM2MtNC40NyAwLTguMTItMy42NS04LjEyLTguMTNTNy41MyAzLjg3IDEyIDMuODdzOC4xMiAzLjY1IDguMTIgOC4xMy0zLjY1IDguMTMtOC4xMiA4LjEzeiIvPjwvc3ZnPg==&logoColor=white" alt="Talend"/>
+  </p>
+</div>
+
+#### **🚀 DevOps & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,git" />
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </p>
+</div>
+
+#### **🔧 Outils de Développement**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  </p>
+</div>
 
 </details>
 
 ---
+
+
 
 ### 📫 Comment me contacter ?
 
@@ -70,9 +142,7 @@ N'hésite pas à visiter mon portfolio pour découvrir l'ensemble de mes projets
 ### 😄 Pour finir sur une note légère...
 
 <div align="center">
-  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
+  <img src="https://readme-jokes.vercel.app/api?theme=default" />
 </div>
 
 <p align="center">
