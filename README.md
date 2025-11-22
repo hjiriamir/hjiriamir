@@ -22,13 +22,15 @@
 ## 🚀 À propos de moi
 
 Développeur Full Stack spécialisé dans la création d'applications web modernes et performantes.  
-Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'intéresse à l'intégration de modèles d'IA pour apporter des fonctionnalités intelligentes aux applications.
+Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'intéresse à l'intégration de modèles d'IA pour ajouter des fonctionnalités intelligentes aux applications.
 
-- 🔭 Projet actuel : **RAPIDOLUX — Plateforme de livraison intelligente**
-- 🤖 Intérêt croissant pour le **Machine Learning** & l'**IA appliquée**
+- 🔭 Projet actuel : **Auto-Marketplace — Site de vente et achat de voitures**
+- ✅ Projet terminé : **RAPIDOLUX — Plateforme de livraison** 
+- 🤖 Intérêt croissant pour le **Machine Learning** & l’**IA appliquée**
 - 💼 Ouvert aux opportunités : freelancing, projets collaboratifs, startups
 - 💬 Ask me about : **React, Next.js, Node.js, Machine Learning**
 - ⚡ Fun fact : Je suis persuadé d'être drôle… parfois j'ai même des preuves !
+
 
 ---
 
