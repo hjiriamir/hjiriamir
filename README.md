@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis HJIRI Amir</h1>
-<h3 align="center">Développeur Full Stack | Passionné par l'IA | Basé en Tunisie</h3>
+<h3 align="center">Développeur Full Stack | Passionné par l'IA</h3>
 
 <p align="center">
   <a href="https://port-folio-amir.vercel.app/">
