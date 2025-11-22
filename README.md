@@ -145,7 +145,7 @@ Plateforme complète de gestion de livraisons : suivi en temps réel, optimisati
 Marketplace permettant la publication d’annonces automobiles, filtrage avancé, gestion utilisateurs, tableau de bord.
 
 🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
-💻 **Code source :** (https://github.com/hjiriamir/auto-marketplace-app)
+💻 **Code source :** [[Repo GitHub]](https://github.com/hjiriamir/auto-marketplace-app)
 
 ---
 
