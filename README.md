@@ -136,10 +136,9 @@ Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'in
 ### 🚗 **Auto-Marketplace – Site d'achat et vente de voitures** *(en cours)*  
 Marketplace permettant la création d’annonces, filtrage avancé, gestion utilisateurs, tableau de bord.
 
-**Technologies :** Next.js, TypeScript, Node.js, Express, MongoDB, Cloudinary 
+**Technologies :** Next.js, TypeScript, Node.js, Express, MongoDB, Cloudinary  
 🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
 💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/auto-marketplace-app)
-
 
 ---
 
@@ -155,7 +154,7 @@ Plateforme complète de gestion de livraisons : suivi en temps réel, optimisati
 ### 💼 **Portfolio Personnel**  
 Site vitrine moderne et responsive présentant mes projets, compétences et expériences.
 
-**Technologies :** Next.js, React, TailwindCSS, Node, Express.js
+**Technologies :** Next.js, React, TailwindCSS, Node, Express.js  
 🔗 **Démo en ligne :** [Consulter le Portfolio](https://port-folio-amir.vercel.app/)  
 💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/port-folio-amir)
 
@@ -167,6 +166,7 @@ Application web d’exploration, visualisation et modèles de prédiction automa
 **Technologies :** Python, Pandas, Scikit-learn, Flask / Streamlit  
 🔗 **Démo :** [Voir l'application](TON_LIEN_SITE_DATA_TOOL)  
 💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_DATA_TOOL)
+
 
 
 ---
