@@ -133,34 +133,39 @@ Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'in
 
 ## 📂 Projets phares
 
-### 🚚 **RAPIDOLUX – Plateforme de livraison**  
-Plateforme complète de gestion de livraisons : suivi en temps réel, optimisation des trajets, dashboard admin.
+### 🚗 **Auto-Marketplace – Site d'achat et vente de voitures** *(en cours)*  
+Marketplace permettant la création d’annonces, filtrage avancé, gestion utilisateurs, tableau de bord.
 
-🔗 **Démo en ligne :** [Voir RAPIDOLUX](TON_LIEN_SITE_RAPIDOLUX)  
-💻 **Code source :** [[Repo GitHub]](https://github.com/hjiriamir/Rapido-Lux)
+**Technologies :** Next.js, TypeScript, Node.js, Express, MongoDB, Cloudinary 
+🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
+💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/auto-marketplace-app)
+
 
 ---
 
-### 🚗 **Auto-Marketplace – Site d'achat et vente de voitures** *(en cours)*  
-Marketplace permettant la publication d’annonces automobiles, filtrage avancé, gestion utilisateurs, tableau de bord.
+### 🚚 **RAPIDOLUX – Plateforme de livraison**  
+Plateforme complète de gestion de livraisons : suivi en temps réel, optimisation des trajets, dashboard admin.
 
-🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
-💻 **Code source :** [[Repo GitHub]](https://github.com/hjiriamir/auto-marketplace-app)
+**Technologies :** React, Node.js, Express, MySQL, JWT, TailwindCSS  
+🔗 **Démo en ligne :** [Voir RAPIDOLUX](TON_LIEN_SITE_RAPIDOLUX)  
+💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/Rapido-Lux)
 
 ---
 
 ### 💼 **Portfolio Personnel**  
 Site vitrine moderne et responsive présentant mes projets, compétences et expériences.
 
+**Technologies :** Next.js, React, TailwindCSS, Node, Express.js
 🔗 **Démo en ligne :** [Consulter le Portfolio](https://port-folio-amir.vercel.app/)  
 💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/port-folio-amir)
 
 ---
 
 ### 📊 **Outil d'analyse de données**  
-Application web d’exploration et de visualisation de données, incluant des modèles prédictifs.
+Application web d’exploration, visualisation et modèles de prédiction automatique.
 
-🔗 **Démo :** [Voir l'Application](TON_LIEN_SITE_DATA_TOOL)  
+**Technologies :** Python, Pandas, Scikit-learn, Flask / Streamlit  
+🔗 **Démo :** [Voir l'application](TON_LIEN_SITE_DATA_TOOL)  
 💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_DATA_TOOL)
 
 
