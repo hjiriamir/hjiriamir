@@ -171,6 +171,38 @@ Application web d’exploration, visualisation et modèles de prédiction automa
 
 ---
 
+
+### 🔒 Projet privé — Smart Store : Plateforme SaaS intelligente pour la gestion de magasins (non public)
+Plateforme professionnelle développée pour un client, combinant gestion opérationnelle, planification 2D/3D, IA et automatisation. (Repo privé)
+
+**Fonctionnalités principales :**  
+- Gestion des abonnements et accès utilisateurs (workflow de validation, email auto, rôles & permissions)  
+- Création du magasin, découpage en zones et planification **2D** (dimensions réelles, placement des meubles, drag & drop)  
+- Génération et gestion de planogrammes (manuel & automatique via modèle IA)  
+- Gestion marketing : promotions, analyse de performance par zone/planogramme, gamification  
+- Gestion des produits (import massif Excel/CSV)  
+- Gestion des collaborateurs (store manager, employé terrain, etc.)  
+- Communication interne : conversations, formations, FAQs  
+- Workspace terrain : dashboard, tâches, commentaires, fichiers, suivi et traçabilité  
+- Génération et manipulation du **plan 3D** du magasin (placement d’éléments 3D : murs, portes, mobilier, etc.)
+
+**Technologies :**  
+- **Frontend / 3D :** React, TailwindCSS, Three.js, React Three Fiber, Canvas  
+- **Backend / API :** Node.js, Express, MongoDB, JWT, Cloudinary  
+- **Intelligence Artificielle :** Scikit-learn, Random Forest, XGBoost  
+- **ETL / Data Processing :** Talend Open Studio
+
+**Ce que j’ai réalisé :**  
+- Conception et développement complet de l’architecture backend  
+- Mise en place d’un système avancé de rôles, permissions et workflows utilisateurs  
+- Développement du module de planification **2D** et contribution au rendu **3D** via Three.js & React Fiber  
+- Automatisation du traitement des données (import Excel, génération planogrammes, notifications)  
+- Intégration d’un modèle IA pour la génération automatique des planogrammes  
+- Optimisation des performances (API, rendu 2D/3D, temps de chargement)  
+- Intégration Cloud : stockage fichiers, optimisation assets, pipelines CI/CD  
+
+
+
 ## 📫 Me contacter
 📧 **Email :** Amir.HJIRI@esprit.tn  
 🌐 **Portfolio :** https://port-folio-amir.vercel.app/  
