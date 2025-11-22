@@ -133,18 +133,36 @@ Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'in
 
 ## 📂 Projets phares
 
-➡️ **RAPIDOLUX – Plateforme de livraison**  
-Développement d'une plateforme complète de livraison avec suivi en temps réel et optimisation des trajets.
+### 🚚 **RAPIDOLUX – Plateforme de livraison**  
+Plateforme complète de gestion de livraisons : suivi en temps réel, optimisation des trajets, dashboard admin.
 
-➡️ **Portfolio Personnel**  
-https://port-folio-amir.vercel.app/  
-Site vitrine présentant mes compétences, projets et expériences avec un design moderne et responsive.
+🔗 **Démo en ligne :** [Voir RAPIDOLUX](TON_LIEN_SITE_RAPIDOLUX)  
+💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_RAPIDOLUX)
 
-➡️ **Application E-commerce**  
-Plateforme e-commerce complète avec système de paiement, gestion de stock et interface administrateur.
+---
 
-➡️ **Outil d'analyse de données**  
-Application web pour visualisation et analyse de datasets avec intégration de modèles prédictifs.
+### 🚗 **Auto-Marketplace – Site d'achat et vente de voitures** *(en cours)*  
+Marketplace permettant la publication d’annonces automobiles, filtrage avancé, gestion utilisateurs, tableau de bord.
+
+🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
+💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_AUTOMARKETPLACE)
+
+---
+
+### 💼 **Portfolio Personnel**  
+Site vitrine moderne et responsive présentant mes projets, compétences et expériences.
+
+🔗 **Démo en ligne :** [Consulter le Portfolio](https://port-folio-amir.vercel.app/)  
+💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_PORTFOLIO)
+
+---
+
+### 📊 **Outil d'analyse de données**  
+Application web d’exploration et de visualisation de données, incluant des modèles prédictifs.
+
+🔗 **Démo :** [Voir l'Application](TON_LIEN_SITE_DATA_TOOL)  
+💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_DATA_TOOL)
+
 
 ---
 
