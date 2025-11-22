@@ -173,7 +173,8 @@ Application web d’exploration, visualisation et modèles de prédiction automa
 
 
 ### 🔒 Projet privé — Smart Store : Plateforme SaaS intelligente pour la gestion de magasins (non public)
-Plateforme professionnelle développée pour un client, combinant gestion opérationnelle, planification 2D/3D, IA et automatisation. (Repo privé)
+Plateforme professionnelle développée pour un client, combinant gestion opérationnelle, planification 2D/3D, IA et automatisation.  
+**Note :** Le code source est privé, mais le projet peut être présenté et discuté lors d’un entretien ou sur demande.
 
 **Fonctionnalités principales :**  
 - Gestion des abonnements et accès utilisateurs (workflow de validation, email auto, rôles & permissions)  
