@@ -152,8 +152,8 @@ Marketplace permettant la publication d’annonces automobiles, filtrage avancé
 ### 💼 **Portfolio Personnel**  
 Site vitrine moderne et responsive présentant mes projets, compétences et expériences.
 
-🔗 **Démo en ligne :** [[Consulter le Portfolio](https://port-folio-amir.vercel.app/) ](https://port-folio-amir.vercel.app/) 
-💻 **Code source :** [[Repo GitHub](TON_LIEN_GITHUB_PORTFOLIO)](https://github.com/hjiriamir/port-folio-amir)
+🔗 **Démo en ligne :** [Consulter le Portfolio](https://port-folio-amir.vercel.app/)  
+💻 **Code source :** [Repo GitHub](https://github.com/hjiriamir/port-folio-amir)
 
 ---
 
