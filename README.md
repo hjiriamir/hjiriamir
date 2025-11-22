@@ -137,7 +137,7 @@ Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'in
 Plateforme complète de gestion de livraisons : suivi en temps réel, optimisation des trajets, dashboard admin.
 
 🔗 **Démo en ligne :** [Voir RAPIDOLUX](TON_LIEN_SITE_RAPIDOLUX)  
-💻 **Code source :** [[Repo GitHub](TON_LIEN_GITHUB_RAPIDOLUX)](https://github.com/hjiriamir/Rapido-Lux)
+💻 **Code source :** [[Repo GitHub]](https://github.com/hjiriamir/Rapido-Lux)
 
 ---
 
