@@ -151,7 +151,7 @@ Application web pour visualisation et analyse de datasets avec intégration de m
 ## 📫 Me contacter
 📧 **Email :** Amir.HJIRI@esprit.tn  
 🌐 **Portfolio :** https://port-folio-amir.vercel.app/  
-💼 **LinkedIn :** linkedin.com/in/amir-hjiri
+💼 **LinkedIn :** [linkedin.com/in/amir-hjiri](https://www.linkedin.com/in/amir-hjiri/)
 
 ---
 
