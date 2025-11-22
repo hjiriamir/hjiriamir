@@ -137,7 +137,7 @@ Je travaille principalement avec **React, Next.js, Node.js, Express** et je m'in
 Plateforme complète de gestion de livraisons : suivi en temps réel, optimisation des trajets, dashboard admin.
 
 🔗 **Démo en ligne :** [Voir RAPIDOLUX](TON_LIEN_SITE_RAPIDOLUX)  
-💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_RAPIDOLUX)
+💻 **Code source :** [[Repo GitHub](TON_LIEN_GITHUB_RAPIDOLUX)](https://github.com/hjiriamir/Rapido-Lux)
 
 ---
 
@@ -145,15 +145,15 @@ Plateforme complète de gestion de livraisons : suivi en temps réel, optimisati
 Marketplace permettant la publication d’annonces automobiles, filtrage avancé, gestion utilisateurs, tableau de bord.
 
 🔗 **Démo en ligne :** [Voir Auto-Marketplace](TON_LIEN_SITE_AUTOMARKETPLACE)  
-💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_AUTOMARKETPLACE)
+💻 **Code source :** [[Repo GitHub](TON_LIEN_GITHUB_AUTOMARKETPLACE)](https://github.com/hjiriamir/auto-marketplace-app)
 
 ---
 
 ### 💼 **Portfolio Personnel**  
 Site vitrine moderne et responsive présentant mes projets, compétences et expériences.
 
-🔗 **Démo en ligne :** [Consulter le Portfolio](https://port-folio-amir.vercel.app/)  
-💻 **Code source :** [Repo GitHub](TON_LIEN_GITHUB_PORTFOLIO)
+🔗 **Démo en ligne :** [[Consulter le Portfolio](https://port-folio-amir.vercel.app/) ](https://port-folio-amir.vercel.app/) 
+💻 **Code source :** [[Repo GitHub](TON_LIEN_GITHUB_PORTFOLIO)](https://github.com/hjiriamir/port-folio-amir)
 
 ---
 
